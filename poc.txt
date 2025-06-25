@@ -4207,6 +4207,7 @@
 ./poc/auth/kakao-login-phish_1_2.yaml
 ./poc/auth/kakao-login-phish_2.yaml
 ./poc/auth/kakao-login-phish_3.yaml
+./poc/auth/kakao-login-phish_4.yaml
 ./poc/auth/kanboard-default-login.yaml
 ./poc/auth/kanboard-default-login_1.yaml
 ./poc/auth/kanboard-default-login_2.yaml
@@ -91072,6 +91073,7 @@
 ./poc/cve/CVE-2024-5334_2.yaml
 ./poc/cve/CVE-2024-5334_3.yaml
 ./poc/cve/CVE-2024-5334_4.yaml
+./poc/cve/CVE-2024-5334_5.yaml
 ./poc/cve/CVE-2024-5335-f0e30cc08b0a4a188e47c1c50b01d31d.yaml
 ./poc/cve/CVE-2024-5335.yaml
 ./poc/cve/CVE-2024-53376.yaml
@@ -101216,6 +101218,7 @@
 ./poc/cve/CVE-2025-5541-d8a2445e0c8675c41be2d108f98a7715.yaml
 ./poc/cve/CVE-2025-5563-c6cee01192b6955d6a9b5ef87a7720aa.yaml
 ./poc/cve/CVE-2025-5568-d3963481ecea24e1bab8e4a89afa017b.yaml
+./poc/cve/CVE-2025-5585-5ed434fa554db6e41ee5055c48a51702.yaml
 ./poc/cve/CVE-2025-5586-a81cc207fb941a000f15eb2ec9c8e9ee.yaml
 ./poc/cve/CVE-2025-5589-75d97e6ca27dc0407e6134a9f55e4071.yaml
 ./poc/cve/CVE-2025-5673-036795216bdbaf295fb0accf74278b9d.yaml
@@ -101232,6 +101235,7 @@
 ./poc/cve/CVE-2025-5923-71ac54a412dfaca50304c13d5d2813c1.yaml
 ./poc/cve/CVE-2025-5925-721dd3262b114a9d10dc78dd898a8fbf.yaml
 ./poc/cve/CVE-2025-5926-d0a6a8a8940151e4283cd715c2c88f41.yaml
+./poc/cve/CVE-2025-5927-ac2690a583463493cdd153e6f211e3a1.yaml
 ./poc/cve/CVE-2025-5928-43a94b63ac10031bd78445256e09eb9d.yaml
 ./poc/cve/CVE-2025-5930-9454db1bc4e6d38f40cf2a95774868a7.yaml
 ./poc/cve/CVE-2025-5938-878b354bb009987e18e69351a4ad78b2.yaml
@@ -109953,6 +109957,7 @@
 ./poc/detect/caobox-cms-detect_2.yaml
 ./poc/detect/caobox-cms-detect_3.yaml
 ./poc/detect/caobox-cms-detect_4.yaml
+./poc/detect/caobox-cms-detect_5.yaml
 ./poc/detect/carestream-vue-detect-1.yaml
 ./poc/detect/carestream-vue-detect-2.yaml
 ./poc/detect/carestream-vue-detect-859.yaml
@@ -110781,6 +110786,7 @@
 ./poc/detect/ibm-odm-detect.yaml
 ./poc/detect/ibm-spectrum-detect.yaml
 ./poc/detect/ibm-spectrum-detect_1.yaml
+./poc/detect/ibm-spectrum-detect_2.yaml
 ./poc/detect/ibm-sterling-detect.yaml
 ./poc/detect/icecast-mediaserver-detect.yaml
 ./poc/detect/icecast-mediaserver-detect_1.yaml
@@ -111868,6 +111874,7 @@
 ./poc/detect/soa-detect_1_2.yaml
 ./poc/detect/soa-detect_2.yaml
 ./poc/detect/soa-detect_3.yaml
+./poc/detect/soa-detect_4.yaml
 ./poc/detect/sogo-detect.yaml
 ./poc/detect/sogo-detect_1.yaml
 ./poc/detect/sogo-detect_2.yaml
@@ -114602,6 +114609,7 @@
 ./poc/exposed/unigui-server-monitor-exposure_2.yaml
 ./poc/exposed/unigui-server-monitor-exposure_3.yaml
 ./poc/exposed/unigui-server-monitor-exposure_4.yaml
+./poc/exposed/unigui-server-monitor-exposure_5.yaml
 ./poc/exposed/uuid-disclosure.yaml
 ./poc/exposed/v2boardv161-exposure.yaml
 ./poc/exposed/v2boardv161-exposure_1.yaml
@@ -115068,6 +115076,7 @@
 ./poc/git/digital-ocean-phish_3.yaml
 ./poc/git/digital-ocean-phish_4.yaml
 ./poc/git/digital-ocean-phish_5.yaml
+./poc/git/digital-ocean-phish_6.yaml
 ./poc/git/digital-ocean-ssrf.yaml
 ./poc/git/digital-publications-by-supsystic-3654b5b992852653b7e966396c0613b4.yaml
 ./poc/git/digital-publications-by-supsystic-376d5bb594e0789e7ff3e9afba783e55.yaml
@@ -120294,6 +120303,7 @@
 ./poc/microsoft/everest-forms-b6b3e80f59fa873307197ce9659b9c44.yaml
 ./poc/microsoft/everest-forms-c0a0e81c146bf7cecaaeae90b639da7b.yaml
 ./poc/microsoft/everest-forms-c736e825a20c9c5ddf7033e9bcb1df59.yaml
+./poc/microsoft/everest-forms-pro-b2c651756aa732332454b79fbc70e272.yaml
 ./poc/microsoft/everest-forms.yaml
 ./poc/microsoft/everest-forms_1.yaml
 ./poc/microsoft/everest-forms_2.yaml
@@ -121303,6 +121313,7 @@
 ./poc/microsoft/samsung-phish_2.yaml
 ./poc/microsoft/samsung-phish_3.yaml
 ./poc/microsoft/samsung-phish_4.yaml
+./poc/microsoft/samsung-phish_5.yaml
 ./poc/microsoft/samsung-smarttv-debug.yaml
 ./poc/microsoft/samsung-smarttv-debug_1.yaml
 ./poc/microsoft/samsung-wlan-ap-lfi-10000.yaml
@@ -121427,8 +121438,10 @@
 ./poc/microsoft/slims-8-akasia-xss.yaml
 ./poc/microsoft/slims-8-akasia-xss_1.yaml
 ./poc/microsoft/slims-8-akasia-xss_2.yaml
+./poc/microsoft/slims-8-akasia-xss_3.yaml
 ./poc/microsoft/slims-9-xss-index.yaml
 ./poc/microsoft/slims-9-xss-index_1.yaml
+./poc/microsoft/slims-9-xss-index_2.yaml
 ./poc/microsoft/slims-cms-detect.yaml
 ./poc/microsoft/slims-xss.yaml
 ./poc/microsoft/smart-cms.yaml
@@ -122113,6 +122126,7 @@
 ./poc/nodejs/aliexpress-phish_3.yaml
 ./poc/nodejs/aliexpress-phish_4.yaml
 ./poc/nodejs/aliexpress-phish_5.yaml
+./poc/nodejs/aliexpress-phish_6.yaml
 ./poc/nodejs/american-express-phish.yaml
 ./poc/nodejs/american-express-phish_1.yaml
 ./poc/nodejs/american-express-phish_1_1.yaml
@@ -123104,6 +123118,7 @@
 ./poc/oracle/oracle-access-management_1.yaml
 ./poc/oracle/oracle-access-management_1_1.yaml
 ./poc/oracle/oracle-access-management_2.yaml
+./poc/oracle/oracle-access-management_3.yaml
 ./poc/oracle/oracle-access-manager.yaml
 ./poc/oracle/oracle-adf-faces.yaml
 ./poc/oracle/oracle-application-server-panel.yaml
@@ -124455,6 +124470,7 @@
 ./poc/other/ackee-panel_1_1.yaml
 ./poc/other/ackee-panel_2.yaml
 ./poc/other/ackee-panel_3.yaml
+./poc/other/ackee-panel_4.yaml
 ./poc/other/acmailer-邮件系统.yaml
 ./poc/other/acme-divi-modules-da43469f9928c1ac7d64405180861717.yaml
 ./poc/other/acme-fix-images-6495363c904fac12fdd3040312907efc.yaml
@@ -126017,6 +126033,7 @@
 ./poc/other/akuiteo-panel_3.yaml
 ./poc/other/akuiteo-panel_4.yaml
 ./poc/other/akuiteo-panel_5.yaml
+./poc/other/akuiteo-panel_6.yaml
 ./poc/other/alamos-panel.yaml
 ./poc/other/albo-pretorio-on-line-1541c4048399c981b0fa249cd5fc148a.yaml
 ./poc/other/albo-pretorio-on-line-24d0b6cfba2bcee8223ab8636700074d.yaml
@@ -129305,6 +129322,7 @@
 ./poc/other/bitwarden-phish_3.yaml
 ./poc/other/bitwarden-phish_4.yaml
 ./poc/other/bitwarden-phish_5.yaml
+./poc/other/bitwarden-phish_6.yaml
 ./poc/other/bitwarden-vault-panel.yaml
 ./poc/other/bitwarden-vault-panel_1.yaml
 ./poc/other/bitwarden-vault-panel_2.yaml
@@ -130090,6 +130108,7 @@
 ./poc/other/box-storage-phish_1_2.yaml
 ./poc/other/box-storage-phish_2.yaml
 ./poc/other/box-storage-phish_3.yaml
+./poc/other/box-storage-phish_4.yaml
 ./poc/other/boxiao-system.yaml
 ./poc/other/bp-activity-filter-14dca7a235b55eb4e1ae9c464671b73d.yaml
 ./poc/other/bp-activity-filter-d41d8cd98f00b204e9800998ecf8427e.yaml
@@ -136061,6 +136080,7 @@
 ./poc/other/dashlane-phish_3.yaml
 ./poc/other/dashlane-phish_4.yaml
 ./poc/other/dashlane-phish_5.yaml
+./poc/other/dashlane-phish_6.yaml
 ./poc/other/dashy-panel.yaml
 ./poc/other/dashy-panel_1.yaml
 ./poc/other/dashy-panel_2.yaml
@@ -138654,6 +138674,7 @@
 ./poc/other/edge-phish_3.yaml
 ./poc/other/edge-phish_4.yaml
 ./poc/other/edge-phish_5.yaml
+./poc/other/edge-phish_6.yaml
 ./poc/other/edge.yaml
 ./poc/other/edge_1.yaml
 ./poc/other/edict-lite-25d89512289e9a002531a0ad7c38058b.yaml
@@ -141609,6 +141630,7 @@
 ./poc/other/filezilla-phish_3.yaml
 ./poc/other/filezilla-phish_4.yaml
 ./poc/other/filezilla-phish_5.yaml
+./poc/other/filezilla-phish_6.yaml
 ./poc/other/filezilla.yaml
 ./poc/other/filezilla_1.yaml
 ./poc/other/filled-in-4e08b824f168f1900e65f36a76c6a75e.yaml
@@ -142795,6 +142817,7 @@
 ./poc/other/fortiswitch-panel_1.yaml
 ./poc/other/fortiswitch-panel_2.yaml
 ./poc/other/fortiswitch-panel_3.yaml
+./poc/other/fortiswitch-panel_4.yaml
 ./poc/other/fortiwifi-certificate.yaml
 ./poc/other/fortiwlm-panel.yaml
 ./poc/other/fortiwlm-panel_1.yaml
@@ -149292,6 +149315,7 @@
 ./poc/other/lastpass-phish_1_2.yaml
 ./poc/other/lastpass-phish_2.yaml
 ./poc/other/lastpass-phish_3.yaml
+./poc/other/lastpass-phish_4.yaml
 ./poc/other/lastudio-element-kit-428d0b6b520409837bc231e9fd76fcea.yaml
 ./poc/other/lastudio-element-kit-47fbf8be7100a7e7e22579a4b63f0255.yaml
 ./poc/other/lastudio-element-kit-4ff8e049b04a5564b57beaffd1c31f32.yaml
@@ -151055,6 +151079,7 @@
 ./poc/other/malwarebytes-phish_2.yaml
 ./poc/other/malwarebytes-phish_3.yaml
 ./poc/other/malwarebytes-phish_4.yaml
+./poc/other/malwarebytes-phish_5.yaml
 ./poc/other/malwared-byob.yaml
 ./poc/other/manage-engine-admanager-panel-8731.yaml
 ./poc/other/manage-engine-admanager-panel-8731_1.yaml
@@ -152357,6 +152382,7 @@
 ./poc/other/microcenter-phish_2.yaml
 ./poc/other/microcenter-phish_3.yaml
 ./poc/other/microcenter-phish_4.yaml
+./poc/other/microcenter-phish_5.yaml
 ./poc/other/microcopy-dccd8a2627207d08b1302477151995e7.yaml
 ./poc/other/microcopy.yaml
 ./poc/other/microcopy_1.yaml
@@ -154010,6 +154036,7 @@
 ./poc/other/netflix-phish_1_2.yaml
 ./poc/other/netflix-phish_2.yaml
 ./poc/other/netflix-phish_3.yaml
+./poc/other/netflix-phish_4.yaml
 ./poc/other/netflow-analyzer-panel.yaml
 ./poc/other/netflow-analyzer-zoho-traffic-management.yaml
 ./poc/other/netgear r6850 router.yaml
@@ -154820,6 +154847,7 @@
 ./poc/other/norton-phish_1_2.yaml
 ./poc/other/norton-phish_2.yaml
 ./poc/other/norton-phish_3.yaml
+./poc/other/norton-phish_4.yaml
 ./poc/other/nospampti-b8c9ec80423781446697241a588192ef.yaml
 ./poc/other/nospampti.yaml
 ./poc/other/nospampti_1.yaml
@@ -155053,6 +155081,7 @@
 ./poc/other/o2-mobile-phish_2.yaml
 ./poc/other/o2-mobile-phish_3.yaml
 ./poc/other/o2-mobile-phish_4.yaml
+./poc/other/o2-mobile-phish_5.yaml
 ./poc/other/o2oa.yaml
 ./poc/other/o2s-gallery-124ae1201057f709e7e6addef07a0724.yaml
 ./poc/other/o2s-gallery-93a4cf774ba528fd90ae6b7dd2915e36.yaml
@@ -156564,6 +156593,7 @@
 ./poc/other/paypal-phish_1_2.yaml
 ./poc/other/paypal-phish_2.yaml
 ./poc/other/paypal-phish_3.yaml
+./poc/other/paypal-phish_4.yaml
 ./poc/other/paypal-promotions-and-insights.yaml
 ./poc/other/paypal-responder.yaml
 ./poc/other/payplus-payment-gateway-589fa37c83e960863b6bccfa6aa68633.yaml
@@ -157556,6 +157586,7 @@
 ./poc/other/plusnet-phish_2.yaml
 ./poc/other/plusnet-phish_3.yaml
 ./poc/other/plusnet-phish_4.yaml
+./poc/other/plusnet-phish_5.yaml
 ./poc/other/pm43_firmware.yaml
 ./poc/other/pma-server-import-1.yaml
 ./poc/other/pma-server-import-10.yaml
@@ -157614,6 +157645,7 @@
 ./poc/other/pocketbase-panel_1_1.yaml
 ./poc/other/pocketbase-panel_2.yaml
 ./poc/other/pocketbase-panel_3.yaml
+./poc/other/pocketbase-panel_4.yaml
 ./poc/other/podamibe-twilio-private-call.yaml
 ./poc/other/podcast-box-c9e4165b2dccdd8b7272e0245b379a56.yaml
 ./poc/other/podcast-box.yaml
@@ -159266,6 +159298,7 @@
 ./poc/other/pronote-panel_2.yaml
 ./poc/other/pronote-panel_3.yaml
 ./poc/other/pronote-panel_4.yaml
+./poc/other/pronote-panel_5.yaml
 ./poc/other/proofpoint-protection-server-panel.yaml
 ./poc/other/proofpoint-protection-server-panel_1.yaml
 ./poc/other/proofpoint-protection-server-panel_2.yaml
@@ -160692,6 +160725,7 @@
 ./poc/other/reddit-phish_1_2.yaml
 ./poc/other/reddit-phish_2.yaml
 ./poc/other/reddit-phish_3.yaml
+./poc/other/reddit-phish_4.yaml
 ./poc/other/reddoxx.yaml
 ./poc/other/redflag-linux-cluster-management-system.yaml
 ./poc/other/redhat-satellite-panel.yaml
@@ -165131,6 +165165,7 @@
 ./poc/other/skype-phish_2.yaml
 ./poc/other/skype-phish_3.yaml
 ./poc/other/skype-phish_4.yaml
+./poc/other/skype-phish_5.yaml
 ./poc/other/skype_for_business_server.yaml
 ./poc/other/skysa-official-52fc01b601113634ef3877713d303e32.yaml
 ./poc/other/skysa-official.yaml
@@ -165726,6 +165761,7 @@
 ./poc/other/so-widgets-bundle-12246c67482cc81113f95b53d4a54f04.yaml
 ./poc/other/so-widgets-bundle-180c430fc45a724a110d6335d32e96f4.yaml
 ./poc/other/so-widgets-bundle-7815d5616dfb70208d5884aff281d688.yaml
+./poc/other/so-widgets-bundle-88dc44a8c4f1f5a29a238973f1cece16.yaml
 ./poc/other/so-widgets-bundle-92dc9daa82044d420b1ee35cdf66e7ae.yaml
 ./poc/other/so-widgets-bundle-92ee98fa3b74b713ba950a259247d7f6.yaml
 ./poc/other/so-widgets-bundle-d32a7a08a7f7049ae462fe2e7701eaaf.yaml
@@ -167704,6 +167740,7 @@
 ./poc/other/sync-storage-phish_2.yaml
 ./poc/other/sync-storage-phish_3.yaml
 ./poc/other/sync-storage-phish_4.yaml
+./poc/other/sync-storage-phish_5.yaml
 ./poc/other/syncee-for-suppliers-0a97e8c1d07e642d1bb81ea193010ade.yaml
 ./poc/other/syncee-for-suppliers-6d3a9c8473bf020a066f620be95a27e8.yaml
 ./poc/other/syncee-for-suppliers-d41d8cd98f00b204e9800998ecf8427e.yaml
@@ -168183,6 +168220,7 @@
 ./poc/other/telegram-phish_1_2.yaml
 ./poc/other/telegram-phish_2.yaml
 ./poc/other/telegram-phish_3.yaml
+./poc/other/telegram-phish_4.yaml
 ./poc/other/telenor-4g-router.yaml
 ./poc/other/telephone-number-linker-4c037cfa6ac8f8aa5d4871e05951ab0d.yaml
 ./poc/other/telephone-number-linker.yaml
@@ -170909,6 +170947,7 @@
 ./poc/other/uni-gui-framework_2.yaml
 ./poc/other/uni-gui-framework_3.yaml
 ./poc/other/uni-gui-framework_4.yaml
+./poc/other/uni-gui-framework_5.yaml
 ./poc/other/uni-woo-custom-product-options-3f79b4d1b8da042c76de6185dfe31a0b.yaml
 ./poc/other/uni-woo-custom-product-options.yaml
 ./poc/other/uni-woo-custom-product-options_1.yaml
@@ -170992,6 +171031,7 @@
 ./poc/other/unleash-panel_2.yaml
 ./poc/other/unleash-panel_3.yaml
 ./poc/other/unleash-panel_4.yaml
+./poc/other/unleash-panel_5.yaml
 ./poc/other/unlimited-0b67100388ae3e44bb41e95f168dc98c.yaml
 ./poc/other/unlimited-addon-for-elementor-71708505e4cd382cd950fd0d6ff4e988.yaml
 ./poc/other/unlimited-addon-for-elementor.yaml
@@ -195371,6 +195411,7 @@
 ./poc/sql_injection/sql-reporting-services_1.yaml
 ./poc/sql_injection/sql-server-dump.yaml
 ./poc/sql_injection/sql-server-dump_1.yaml
+./poc/sql_injection/sql-server-dump_2.yaml
 ./poc/sql_injection/sql-server-report-viewer.yaml
 ./poc/sql_injection/sql-server-report-viewer_1.yaml
 ./poc/sql_injection/sql-server-reporting-10508.yaml
