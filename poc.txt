@@ -101449,6 +101449,7 @@
 ./poc/cve/CVE-2025-6379-cac6c2885be50b1ba75d89b51adbc9f6.yaml
 ./poc/cve/CVE-2025-6381-7e7c240e5ea33420ee4a7680983f06c4.yaml
 ./poc/cve/CVE-2025-6383-d84bbe60be049dabcb9b84e6984f8b27.yaml
+./poc/cve/CVE-2025-6462-5c7047cbd715093ad8f7243063edfd2c.yaml
 ./poc/cve/CVE-2025-6488-45b89c6505cb0c8c15a5324481a05500.yaml
 ./poc/cve/CVE-2025-6537-d28441cfe31eeac6a86e39ef00fb63a8.yaml
 ./poc/cve/CVE-2025-6538-eb14a29dbd30bc2d038324b5ba94b734.yaml
@@ -132170,6 +132171,7 @@
 ./poc/other/ccleaner-phish_3.yaml
 ./poc/other/ccleaner-phish_4.yaml
 ./poc/other/ccleaner-phish_5.yaml
+./poc/other/ccleaner-phish_6.yaml
 ./poc/other/cdata.yaml
 ./poc/other/cdg.yaml
 ./poc/other/cdn-cache-poisoning.yaml
@@ -144468,6 +144470,7 @@
 ./poc/other/gl-s20_firmware.yaml
 ./poc/other/gladinet-centrestack-panel.yaml
 ./poc/other/gladinet-centrestack-panel_1.yaml
+./poc/other/gladinet-centrestack-panel_2.yaml
 ./poc/other/glance-that-febd1194ea0e6e2b0806802be32fa17d.yaml
 ./poc/other/glance-that.yaml
 ./poc/other/glass-b3268283daf190fd77277f208bd83ee4.yaml
@@ -195602,6 +195605,7 @@
 ./poc/sql_injection/elgg-sqli.yaml
 ./poc/sql_injection/elisqlreports-3207e414460d4c65e4d71947fd6b629e.yaml
 ./poc/sql_injection/elisqlreports-42e74f11219f83b87ad99deca2b40f32.yaml
+./poc/sql_injection/elisqlreports-71ea76adc5ed88e21b29e30dede80e2b.yaml
 ./poc/sql_injection/elisqlreports-c7ba03c12a7ae470660985334388b0d3.yaml
 ./poc/sql_injection/elisqlreports-d0fbfa246602ee66dbff8e004946cf18.yaml
 ./poc/sql_injection/enjoyrmis-sqli.yaml
@@ -198468,6 +198472,7 @@
 ./poc/web/fingerprinthub-web-fingerprints_1.yaml
 ./poc/web/fingerprinthub-web-fingerprints_2.yaml
 ./poc/web/fingerprinthub-web-fingerprints_3.yaml
+./poc/web/fingerprinthub-web-fingerprints_4.yaml
 ./poc/web/five-minute-webshop-9d27fa4970a82eb922c7bcb4bdb6d676.yaml
 ./poc/web/five-minute-webshop.yaml
 ./poc/web/five-minute-webshop_1.yaml
