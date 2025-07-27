@@ -5970,6 +5970,7 @@
 ./poc/auth/putty-private-key-disclosure-9731.yaml
 ./poc/auth/putty-private-key-disclosure-9732.yaml
 ./poc/auth/putty-private-key-disclosure.yaml
+./poc/auth/putty-private-key-disclosure_1.yaml
 ./poc/auth/putty-user-keyfile.yaml
 ./poc/auth/putty-user-keyfile_1.yaml
 ./poc/auth/pvn-auth-popup-07f350252e6820d89f1593e944a45ac9.yaml
@@ -11002,6 +11003,7 @@
 ./poc/config/wp-ispconfig3.yaml
 ./poc/config/wp-misconfig.yaml
 ./poc/config/wp-setup-config.yaml
+./poc/config/wp-setup-config_1.yaml
 ./poc/config/wp-superstorefinder-misconfig.yaml
 ./poc/config/wp-superstorefinder-misconfig_1.yaml
 ./poc/config/wpconfig-aws-keys-1.yaml
@@ -105569,6 +105571,7 @@
 ./poc/cve/CVE-2025-8071-1d91f05b98b9098df2ab87a990d1ff8e.yaml
 ./poc/cve/CVE-2025-8097-ff1b43556fde87cf99b46e758c4e2e7f.yaml
 ./poc/cve/CVE-2025-8103-8c5b11730cb23751fcda844457b33f2a.yaml
+./poc/cve/CVE-2025-8104-e0b71b77c55bfbf546c45e72181d37ff.yaml
 ./poc/cve/CVE-2025-8198-0a9fef527f54d4f351b5a874f6654b28.yaml
 ./poc/cve/CVE202127562-220331-222408.yaml
 ./poc/cve/CVE_2023_49442.yaml
@@ -115189,6 +115192,7 @@
 ./poc/detect/herokuapp-detect.yaml
 ./poc/detect/herokuapp-detect_1.yaml
 ./poc/detect/herokuapp-detect_2.yaml
+./poc/detect/herokuapp-detect_3.yaml
 ./poc/detect/hetzner-cloud-detect.yaml
 ./poc/detect/hetzner-cloud-detect_1.yaml
 ./poc/detect/hetzner-cloud-detect_2.yaml
@@ -115197,6 +115201,7 @@
 ./poc/detect/hikvision-detect_1.yaml
 ./poc/detect/hikvision-detect_2.yaml
 ./poc/detect/hikvision-detect_3.yaml
+./poc/detect/hikvision-detect_4.yaml
 ./poc/detect/hikvision-detection-1.yaml
 ./poc/detect/hikvision-detection-2.yaml
 ./poc/detect/hikvision-detection-7954.yaml
@@ -116068,6 +116073,7 @@
 ./poc/detect/pi-hole-detect_2.yaml
 ./poc/detect/piwigo-detect.yaml
 ./poc/detect/piwigo-detect_1.yaml
+./poc/detect/piwigo-detect_2.yaml
 ./poc/detect/pix-bi-detect.yaml
 ./poc/detect/pix-bi-detect_1.yaml
 ./poc/detect/plantuml-detect.yaml
@@ -119887,6 +119893,7 @@
 ./poc/git/git-mailmap_2.yaml
 ./poc/git/git-mailmap_2_1.yaml
 ./poc/git/git-mailmap_3.yaml
+./poc/git/git-mailmap_4.yaml
 ./poc/git/git-repository-browser.yaml
 ./poc/git/git-repository-browser_1.yaml
 ./poc/git/git-repository-browser_2.yaml
@@ -138526,6 +138533,7 @@
 ./poc/other/cold-fusion-cfcache-map.yaml
 ./poc/other/cold-fusion-cfcache-map_1.yaml
 ./poc/other/cold-fusion-cfcache-map_2.yaml
+./poc/other/cold-fusion-cfcache-map_3.yaml
 ./poc/other/colibri-page-builder-1bfda370cbff31e2f4c39c2a302bbf16.yaml
 ./poc/other/colibri-page-builder-28675012abc87972c312fe7cdd5bc6f8.yaml
 ./poc/other/colibri-page-builder-316fd97f427de6921391f2a17f80bd23.yaml
@@ -183264,6 +183272,7 @@
 ./poc/php/php-ini.yaml
 ./poc/php/php-ini_1.yaml
 ./poc/php/php-ini_2.yaml
+./poc/php/php-ini_3.yaml
 ./poc/php/php-layers.yaml
 ./poc/php/php-link-directory.yaml
 ./poc/php/php-mailer.yaml
@@ -200038,6 +200047,7 @@
 ./poc/sql/sql-monitor-10505_1.yaml
 ./poc/sql/sql-monitor.yaml
 ./poc/sql/sql-monitor_1.yaml
+./poc/sql/sql-monitor_2.yaml
 ./poc/sql/sql-reporting-services-6477bf18cad6c823db485408d49b337b.yaml
 ./poc/sql/sql-reporting-services-ff9293ba28748efa2ab9a2fe77385468.yaml
 ./poc/sql/sql-reporting-services.yaml
@@ -213008,6 +213018,7 @@
 ./poc/wordpress/wp-memory-2cc3e92c3d1708bd7f8caa1049d9d5af.yaml
 ./poc/wordpress/wp-memory-7c8e62901f62e844cd59da693d583894.yaml
 ./poc/wordpress/wp-memory-914b4d819dd1d865a850219104f89ac0.yaml
+./poc/wordpress/wp-memory-9f8d91fab8829b2f1c6b3f44fee68a1a.yaml
 ./poc/wordpress/wp-memory-d41d8cd98f00b204e9800998ecf8427e.yaml
 ./poc/wordpress/wp-memory-e7ab4f836f535fd1c7d2ba4a92ab0a44.yaml
 ./poc/wordpress/wp-memory-plugin-d41d8cd98f00b204e9800998ecf8427e.yaml
