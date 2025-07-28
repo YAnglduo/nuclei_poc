@@ -170485,6 +170485,7 @@
 ./poc/other/simple-history.yaml
 ./poc/other/simple-history_1.yaml
 ./poc/other/simple-history_2.yaml
+./poc/other/simple-history_3.yaml
 ./poc/other/simple-icons-03e487465bb923661d049aafb077d022.yaml
 ./poc/other/simple-icons-77fb32c5c3aa2b70b15423e0972c0c7c.yaml
 ./poc/other/simple-icons.yaml
