@@ -6155,6 +6155,7 @@
 ./poc/auth/racksnet-login.yaml
 ./poc/auth/racksnet-login_1.yaml
 ./poc/auth/racksnet-login_2.yaml
+./poc/auth/racksnet-login_3.yaml
 ./poc/auth/radarr-dashboard-unauth.yaml
 ./poc/auth/radarr-dashboard-unauth_1.yaml
 ./poc/auth/rails-secret-token-disclosure-9809.yaml
@@ -43625,6 +43626,7 @@
 ./poc/cve/CVE-2022-1388_7.yaml
 ./poc/cve/CVE-2022-1388_8.yaml
 ./poc/cve/CVE-2022-1388_8_1.yaml
+./poc/cve/CVE-2022-1388_9.yaml
 ./poc/cve/CVE-2022-1390.yaml
 ./poc/cve/CVE-2022-1390_1.yaml
 ./poc/cve/CVE-2022-1390_2.yaml
@@ -172674,6 +172676,7 @@
 ./poc/other/signet-explorer-dashboard_1.yaml
 ./poc/other/signet-explorer-dashboard_2.yaml
 ./poc/other/signet-explorer-dashboard_3.yaml
+./poc/other/signet-explorer-dashboard_4.yaml
 ./poc/other/sikshya-4f449f0ece348fd1b3cf1babcc8e8049.yaml
 ./poc/other/sikshya.yaml
 ./poc/other/sikshya_1.yaml
@@ -180650,6 +180653,7 @@
 ./poc/other/variables.yaml
 ./poc/other/variables_1.yaml
 ./poc/other/variables_2.yaml
+./poc/other/variables_3.yaml
 ./poc/other/varmour-product.yaml
 ./poc/other/vasaio-qr-code-e84ac93eb509e74008997bf87194ee98.yaml
 ./poc/other/vault-panel.yaml
